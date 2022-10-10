@@ -46,3 +46,30 @@
  - Python was designed for readability, and has some similarities to the English language with influence from mathematics.
  - Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
  - Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+
+## Table Of Contents
+
+1. Introduction
+2. Comments
+3. Reserved Words
+4. Variables
+5. User Input and Output
+6. Operators
+7. Decision Making
+8. Loops
+9. Loops Controls
+10. Numbers
+11. Boolean
+12. String
+13. Lists
+14. Dictionary
+15. Sets
+16. Arrays
+17. Functions
+18. Classes or Objects
+19. Modules
+20. Error & Exception Handling
+21. PIP
+22. JSON
+23. File Handling
